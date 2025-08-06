@@ -20,16 +20,16 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 ## Tecnologias Utilizadas
 
 
-- Frontend:<br>
-  React, HTML5, CSS3, JavaScript
-- Backend:<br>
-  Node.js, Express
-- Banco de Dados:<br>
-  MongoDB (ou escolha preferencial)
-- Autenticação:<br>
-  JWT (JSON Web Tokens), OAuth (se necessário)
-- WebSockets:<br>
-  Para comunicação em tempo real
+## - Frontend:<br>
+      React, HTML5, CSS3, JavaScript
+## - Backend:<br>
+      Node.js, Express
+## - Banco de Dados:<br>
+      MongoDB (ou escolha preferencial)
+## - Autenticação:<br>
+      JWT (JSON Web Tokens), OAuth (se necessário)
+## - WebSockets:<br>
+      Para comunicação em tempo real
 
 
 
