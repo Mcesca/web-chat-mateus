@@ -7,7 +7,7 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 
 ## Funcionalidades
 
--Salas temáticas: Participe ou crie salas de bate-papo com assuntos que você gosta.
+- Salas temáticas: Participe ou crie salas de bate-papo com assuntos que você gosta.
 
 -Conversas privadas: Fale de forma reservada com outros usuários, com mais liberdade.
 
