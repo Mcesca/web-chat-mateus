@@ -9,13 +9,13 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 
 - Salas temáticas: Participe ou crie salas de bate-papo com assuntos que você gosta.
 
--Conversas privadas: Fale de forma reservada com outros usuários, com mais liberdade.
+- Conversas privadas: Fale de forma reservada com outros usuários, com mais liberdade.
 
--Grupos de discussão: Entre em grupos para trocar ideias, debater temas e aprender com outras pessoas.
+- Grupos de discussão: Entre em grupos para trocar ideias, debater temas e aprender com outras pessoas.
 
--Moderação e segurança: Ferramentas que ajudam a manter o ambiente respeitoso e seguro.
+- Moderação e segurança: Ferramentas que ajudam a manter o ambiente respeitoso e seguro.
 
--Interface intuitiva: Visual simples e prático, fácil de usar para todos os níveis de experiência.
+- Interface intuitiva: Visual simples e prático, fácil de usar para todos os níveis de experiência.
 
 
 
