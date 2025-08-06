@@ -17,6 +17,15 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 
 - Interface intuitiva: Visual simples e prático, fácil de usar para todos os níveis de experiência.
 
+## Tecnologias Utilizadas
+
+
+- Frontend: React, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express
+- Banco de Dados: MongoDB (ou escolha preferencial)
+- Autenticação: JWT (JSON Web Tokens), OAuth (se necessário)
+- WebSockets: Para comunicação em tempo real
+
 
 
 
