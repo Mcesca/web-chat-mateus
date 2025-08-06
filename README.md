@@ -22,13 +22,13 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 
 ### - Frontend:<br>
       React, HTML5, CSS3, JavaScript
-## - Backend:<br>
+### - Backend:<br>
       Node.js, Express
-## - Banco de Dados:<br>
+### - Banco de Dados:<br>
       MongoDB (ou escolha preferencial)
-## - Autenticação:<br>
+### - Autenticação:<br>
       JWT (JSON Web Tokens), OAuth (se necessário)
-## - WebSockets:<br>
+### - WebSockets:<br>
       Para comunicação em tempo real
 
 
