@@ -20,7 +20,7 @@ Pensado para quem quer se comunicar de maneira prática e organizada, o LChat of
 ## Tecnologias Utilizadas
 
 
-## - Frontend:<br>
+### - Frontend:<br>
       React, HTML5, CSS3, JavaScript
 ## - Backend:<br>
       Node.js, Express
